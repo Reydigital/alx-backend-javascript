@@ -1,6 +1,4 @@
-// Teacher interface
-
-interface Teacher {
+nterface Teacher {
 
   readonly firstName: string;
 
